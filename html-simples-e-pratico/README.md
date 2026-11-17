@@ -35,4 +35,4 @@ Compreender os fundamentos do HTML e desenvolver uma base para a criação e est
 
 Curso concluído pela **TOTVS Fluig Academy**.
 
-[📄 Visualizar certificado](../certificados/certificado-html.pdf)
+[📄 Visualizar certificado de conclusão](../certificados/CertificadoTotvsHtml.pdf)
