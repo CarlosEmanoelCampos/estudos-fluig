@@ -1,8 +1,22 @@
 # 📚 Estudos Fluig
 
-Repositório com os meus estudos da certificação **Totvs Fluig Academy**.
-Aqui eu guardo o código que pratiquei e as anotações de cada curso.
+Repositório criado para documentar minha jornada de aprendizado na **TOTVS Fluig Academy**.
 
-## Cursos
+Aqui compartilho minhas anotações, exemplos práticos e códigos desenvolvidos durante os estudos, organizados por curso e conteúdo.
 
-- [Fundamentos HTML: Simples e Prático](html-simples-e-pratico)
+## 📖 Cursos
+
+### Fundamentos HTML: Simples e Prático
+
+Curso introdutório de HTML, com foco na estruturação de páginas web, utilização de tags, organização de conteúdo e criação de formulários.
+
+[**Acessar os estudos de HTML →**](html-simples-e-pratico/)
+
+## 🛠️ Tecnologias e ferramentas
+- HTML5
+- Visual Studio Code
+- Git e GitHub
+
+## 🎯 Objetivo
+
+Consolidar meus conhecimentos por meio da prática, registrar minha evolução e construir um portfólio com os projetos desenvolvidos durante meus estudos.
